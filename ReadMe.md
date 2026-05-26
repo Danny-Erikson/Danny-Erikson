@@ -3,6 +3,7 @@ Developer learning Python, Java, and software design.<br>Building practical tool
 
 
 ## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:derikson413@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danny-erikson-660542377/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/PmHJfP4Yqf//)
 
